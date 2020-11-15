@@ -2,7 +2,7 @@
   "name": "angular-tour-of-heroes",
   "version": "0.0.0",
   "scripts": {
-    "heroku-postbuil": "ng buil --prod",
+    "heroku-postbuil": "ng build --prod",
     "ng": "ng",
     "start": "ng server.js",
     "build": "ng build",
